@@ -1,1 +1,2 @@
 # Movies_recommendation
+Built a content-based recommendation engine that suggests movies based on similarity in metadata and tags. Used Count Vectorization to convert movie descriptions into numerical vectors and Cosine Similarity to compute closeness between titles. Deployed an interactive UI with Streamlit where users can select a movie and get instant recommendations — covering the full cycle from raw data to a working ML product.
